@@ -6,7 +6,7 @@
     "hongbao": "taobao://m.tb.cn/h.4WKRaaT",
     "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
     "cat": {
-      "image": "https://gitee.com/leecogit/Updater/raw/master/image/1111_cat.jpeg",
+      "image": "https://raw.githubusercontent.com/saury/Updater/master/image/1111_cat.jpeg",
       "home": "taobao://pages.tmall.com/wow/z/hdwk/act-20201111/index?disableNav=YES&qd_from=dccjy",
       "task": [
         {

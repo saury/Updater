@@ -1,7 +1,7 @@
 {
   "Taojb": {
     "version": "数据库版本:2.10.1",
-    "image": "https://gitee.com/leecogit/Updater/raw/master/image/tjb.png",
+    "image": "https://raw.githubusercontent.com/saury/Updater/master/image/tjb.png",
     "pv": {
       "taobao": "taobao://m.tb.cn/h.49SUzMg",
       "tmall": "tmall://page.tm/appLink?&action=ali.open.nav&h5Url=https%3A%2F%2Fm.tb.cn%2Fh.49SUzMg",
@@ -166,7 +166,7 @@
     "end": "HTTPS://pages.tmall.com/wow/z/tmtjb/town/1212-home?wh_biz=tm&disableNav=YES",
     "hongbao": "taobao://m.tb.cn/h.44CiYjQ",
     "main": "HTTPS://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-    "image": "https://gitee.com/leecogit/Updater/raw/master/image/tjb.png",
+    "image": "https://raw.githubusercontent.com/saury/Updater/master/image/tjb.png",
     "home": "HTTPS://pages.tmall.com/wow/z/tmtjb/town/1212-home?wh_biz=tm&disableNav=YES",
     "appurl": {
       "main": {
@@ -346,7 +346,7 @@
     "end": "HTTPS://pages.tmall.com/wow/an/tmall/user-growth/play-tmall?disableNav=YES",
     "hongbao": "taobao://m.tb.cn/h.44CiYjQ",
     "main": "HTTPS://m.taobao.com/tbopen/index.html?h5Url=https://m.taobao.com",
-    "image": "https://gitee.com/leecogit/Updater/raw/master/image/tb_ttlhb.png",
+    "image": "https://raw.githubusercontent.com/saury/Updater/master/image/tb_ttlhb.png",
     "home": "HTTPS://pages.tmall.com/wow/an/tmall/user-growth/play-tmall?disableNav=YES",
     "appurl": {
       "main": {
